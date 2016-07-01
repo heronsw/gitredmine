@@ -1,4 +1,9 @@
 teste do repositorio.
 
+<<<<<<< HEAD
 agora vai. 
 
+=======
+
+com integração do git...
+>>>>>>> 3499901ea0b37cff29ce2fb1f3ad4157405cb3e8
